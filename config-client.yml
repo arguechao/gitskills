@@ -2,7 +2,7 @@ info:
 
   profile: default
 
-from: git111
+from: git222
 
   
 test: bbb
